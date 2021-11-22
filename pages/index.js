@@ -32,7 +32,7 @@ const Home = () => (
   <Layout>
     <Container>
             <Box borderRadius="lg" bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')} p={3} mb={6} align="center">
-                Hello, I&apos;m a Developer based in temanggung !
+                Hello, Im a Developer based in temanggung !
             </Box>
             
             <Box display={{ md: 'flex' }}>
@@ -64,7 +64,7 @@ const Home = () => (
                  I also easily mingle with other people and like to make friends and relationships and build close relationships with them.
                   I also like to play games and travel Using a motorbike to get around places I've never been to.{' '}
                     <NextLink href="/works/inkdrop">
-                        <Link>let&apos;s go</Link>
+                        <Link>lets go</Link>
                         </NextLink>
                 </Paragraph>
                 <Box align="center" my={4}>
@@ -82,11 +82,11 @@ const Home = () => (
                 </Heading>
                 <BioSection>
                     <BioYear>2001</BioYear>
-                    Born in Magelang&apos; Central Java.
+                    Born in Magelang Central Java.
                 </BioSection>
                 <BioSection>
                     <BioYear>2019</BioYear>
-                    Undergraduate Informatic&apos;s Engineering
+                    Undergraduate Informatics Engineering
                     At Dian Nuswantoro University
                 </BioSection>
                 <BioSection>
@@ -95,7 +95,7 @@ const Home = () => (
                 </BioSection>
                 <BioSection>
                     <BioYear>2020 - Now</BioYear>
-                    Member of Programming&apos; and Publication Division DOSCOM  
+                    Member of Programming and Publication Division DOSCOM  
                     (Dinus Open Source Comunity)
                 </BioSection>
                 <BioSection> 

@@ -21,10 +21,10 @@ const Work = () => (
       </P>
       <P>
         Here I learned how to manage an organization and how to be responsible. 
-        at doscom I got a lot of experience such as being a committee, presenter, 
-        and I also made a lot of new friend &apos;s. I used to be a speaker to teach students 
+        at doscom I got a lot of experience such as being a committe presenter, 
+        and I also made a lot of new friends. I used to be a speaker to teach students 
         to learn python in a Pyshare event held by Doscom.
-         and I was a Speaker in the Game Dev section of the Doscom Sharing Time Event
+        and I was a Speaker in the Game Dev section of the Doscom Sharing Time Event
       </P>
       <List ml={4} my={4}>
         <ListItem>
@@ -32,7 +32,7 @@ const Work = () => (
           <span>Member of the Programming and Documentation Publication Division</span>
         </ListItem>
         <ListItem>
-          <Meta>Presenter"&apos; Record</Meta>
+          <Meta>Presenter Record</Meta>
           <Link href="https://www.youtube.com/watch?v=bACTvlaQ2_w">
           My recording when I was a GAME DEV speaker at Doscom Sharing Time{' '}
             <ExternalLinkIcon mx="2px" />
