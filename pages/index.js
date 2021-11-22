@@ -32,7 +32,7 @@ const Home = () => (
   <Layout>
     <Container>
             <Box borderRadius="lg" bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')} p={3} mb={6} align="center">
-                Hello, Im a Developer based in temanggung !
+                Hello, Im a Developer based in temanggung 
             </Box>
             
             <Box display={{ md: 'flex' }}>
@@ -59,12 +59,12 @@ const Home = () => (
                     About
                 </Heading>
                 <Paragraph> 
-                Dewa is an Informatics Engineering student who is currently pursuing an undergraduate degree at Dian Nuswantoro University
+                 Dewa is an Informatics Engineering student who is currently pursuing an undergraduate degree at Dian Nuswantoro University
                  I like to seek experiences to improve my soft and hard skills both from inside and outside campus
                  I also easily mingle with other people and like to make friends and relationships and build close relationships with them.
-                  I also like to play games and travel Using a motorbike to get around places I've never been to.{' '}
+                 I also like to play games and travel Using a motorbike to get around places I ve never been to.{' '}
                     <NextLink href="/works/inkdrop">
-                        <Link>lets go</Link>
+                        <Link> lets go </Link>
                         </NextLink>
                 </Paragraph>
                 <Box align="center" my={4}>
