@@ -59,12 +59,12 @@ const Home = () => (
                     About
                 </Heading>
                 <Paragraph> 
-                Dewa is an Informatics Engineering student who is currently pursuing an undergraduate degree at Dian Nuswantoro University.
-                 I like to seek experiences to improve my soft and hard skills both from inside and outside campus. 
+                Dewa is an Informatics Engineering student who is currently pursuing an undergraduate degree at Dian Nuswantoro University
+                 I like to seek experiences to improve my soft and hard skills both from inside and outside campus
                  I also easily mingle with other people and like to make friends and relationships and build close relationships with them.
                   I also like to play games and travel Using a motorbike to get around places I've never been to.{' '}
                     <NextLink href="/works/inkdrop">
-                        <Link>let's go</Link>
+                        <Link>let&apos;s go</Link>
                         </NextLink>
                 </Paragraph>
                 <Box align="center" my={4}>
@@ -82,7 +82,7 @@ const Home = () => (
                 </Heading>
                 <BioSection>
                     <BioYear>2001</BioYear>
-                    Born in Magelang, Central Java.
+                    Born in Magelang&apos; Central Java.
                 </BioSection>
                 <BioSection>
                     <BioYear>2019</BioYear>

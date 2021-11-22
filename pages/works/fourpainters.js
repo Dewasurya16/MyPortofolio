@@ -21,7 +21,7 @@ const Work = () => (
       <P>
       A 2D-based game that I worked on for about 5 day&apos;s 
       and this game is quite exciting because players are given
-      a challenge to avoid enemies so they don't die of course
+      a challenge to avoid enemies so they don&apos;t die of course
       players can also get scores during the game
       </P>
       <List ml={4} my={4}>

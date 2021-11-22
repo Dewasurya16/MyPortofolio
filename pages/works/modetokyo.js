@@ -32,7 +32,7 @@ const Work = () => (
           <span>Member of the Programming and Documentation Publication Division</span>
         </ListItem>
         <ListItem>
-          <Meta>Presenter's Record</Meta>
+          <Meta>Presenter"&apos; Record</Meta>
           <Link href="https://www.youtube.com/watch?v=bACTvlaQ2_w">
           My recording when I was a GAME DEV speaker at Doscom Sharing Time{' '}
             <ExternalLinkIcon mx="2px" />
