@@ -25,7 +25,7 @@ import {
   IoLogoWhatsapp,
   IoLogoLinkedin
 } from 'react-icons/io5'
-import thumbYouTube from '../public/images/links/Youtube.png'
+import thumbYouTube from '../public/images/Youtube.png'
 import thumbInkdrop from '../public/images/G.jpg'
 
 const Home = () => (
