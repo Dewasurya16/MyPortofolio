@@ -60,9 +60,9 @@ const Home = () => (
                 </Heading>
                 <Paragraph> 
                  Dewa is an Informatics Engineering student who is currently pursuing an undergraduate degree at Dian Nuswantoro University
-                 I like to seek experiences to improve my soft and hard skills both from inside and outside campus
-                 I also easily mingle with other people and like to make friends and relationships and build close relationships with them.
-                 I also like to play games and travel Using a motorbike to get around places I ve never been to.{' '}
+                 i like to seek experiences to improve my soft and hard skills both from inside and outside campus
+                also easily mingle with other people and like to make friends and relationships and build close relationships with them
+                also like to play games and travel Using a motorbike to get around places I ve never been to.
                     <NextLink href="/works/inkdrop">
                         <Link> lets go </Link>
                         </NextLink>
