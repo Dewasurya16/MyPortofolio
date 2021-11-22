@@ -9,7 +9,7 @@ import thumbFourPainters from '../public/images/works/endles.png'
 import thumbMenkiki from '../public/images/works/hangman.png'
 import thumbModeTokyo from '../public/images/works/doscom.png'
 import thumbStyly from '../public/images/works/gadeva.png'
-import thumbPichu2 from '../public/images/works/Gemnastik.png'
+import thumbPichu2 from '../public/images/works/gemnastik.png'
 import thumbFreeDBTagger from '../public/images/works/ikt.png'
 import thumbAmembo from '../public/images/works/k2.png'
 
