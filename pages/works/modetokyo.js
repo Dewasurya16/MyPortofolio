@@ -16,14 +16,14 @@ const Work = () => (
       <Title>
         Doscom(Dinus Open Source) <Badge>2020-2022</Badge>
       </Title>
-      <P>Organizations at Dian Nuswantoro University that are engaged in Open Source
-      here I learn a lot about what open source is and since the time I joined I used Open Source Software to prevent Piracy
+      <P>Organizations at Dian Nuswantoro University that are engaged in Open Source.
+      here I learn a lot about what open source, and since the time I joined I used Open Source Software to prevent Privacy.
       </P>
       <P>
-        Here i learned how to manage an organization and how to be responsible
-        at doscom i got a lot of experience such as being a committe presenter
-        and i also made a lot of new friends I used to be a speaker to teach students 
-        to learn python in a Pyshare event held by Doscom
+        Here i learned how to manage an organization and how to be responsible.
+        at doscom i got a lot of experience such as being a committe, presenter,
+        and i also made a lot of new friends. I used to be a speaker to teach students 
+        to learn python in a Pyshare event held by Doscom,
         and i was a Speaker in the Game Dev section of the Doscom Sharing Time Event.
       </P>
       <List ml={4} my={4}>
