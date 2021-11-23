@@ -82,7 +82,7 @@ const Home = () => (
                 </Heading>
                 <BioSection>
                     <BioYear>2001</BioYear>
-                    Born in Magelang Central Java.
+                    Born in Magelang Central Java
                 </BioSection>
                 <BioSection>
                     <BioYear>2019</BioYear>
