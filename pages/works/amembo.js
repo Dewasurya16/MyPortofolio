@@ -20,8 +20,8 @@ const Work = () => (
         <Image src="/images/works/amembo_icon.png" alt="icon" />
       </Center>
       <P>
-      I followed class Kecerdasan Digital which was organized by Gajah Mada University and Huawei. Since joining this program I have gained more knowledge about Artical Intelligence which has made me understand more about AI and smart systems.
-in this class I was taught directly by experts from Huawei whose knowledge is really great and expert
+      I followed class Kecerdasan Digital which was organized by Gajah Mada University and Huawei. Since joining this program, I have gained more knowledge about Artical Intelligence which has made me understand more about AI and smart systems.
+in this class, I was taught directly by experts from Huawei whose knowledge is really great and expert.
       </P>
       <List ml={4} my={4}>
         <ListItem>
