@@ -21,9 +21,9 @@ const Work = () => (
       </Center>
      
       <P>
-      kt is a Muslim community in Temanggung and based in Yogyakarta, 
-      in every district there are branches. This community is tasked with disseminating study information to the public so that people know where the Islamic religious studies are in Temanggung in this community,
-       I get a lot of religious knowledge and make many acquaintances
+      Ikt is a Muslim community in Temanggung and based in Yogyakarta, 
+      in every district there are branches. This community is tasked with disseminating study information to the public, so that people know where the Islamic religious studies are in Temanggung. in this community,
+       I get a lot of religious knowledge and make many acquaintances.
       </P>
 
       <List ml={4} my={4}>
