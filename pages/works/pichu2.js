@@ -19,7 +19,7 @@ const Work = () => (
       <P>
       I once participated in a Gemastik competition held by Telkom and had a national class.
        In this competition, I and my team of 3 represent my organization and university to compete with other universities.
-My team and I took part in a competition in the UI/UX field and my team created a Mobile App Design with the name Print Online
+My team and I took part in a competition in the UI/UX field and my team created a Mobile App Design with the name Print Online.
 
 
       </P>
