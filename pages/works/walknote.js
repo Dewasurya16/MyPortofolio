@@ -21,7 +21,7 @@ const Work = () => (
       </Title>
       <P>
       A puzzle-based game project that I worked on while studying independently.
-The excitement of this game is in the effect that occurs when we manage to 
+The excitement of this game is in the effect, that occurs when we manage to 
 combine 3 of the same color. 
 
 
