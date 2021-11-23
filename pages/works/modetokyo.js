@@ -11,7 +11,7 @@ import { Title, WorkImage, Meta } from '../../components/work'
 import P from '../../components/paragraph'
 
 const Work = () => (
-  <Layout title="mode.tokyo">
+  <Layout title="Doscom">
     <Container>
       <Title>
         Doscom(Dinus Open Source) <Badge>2020-2022</Badge>
