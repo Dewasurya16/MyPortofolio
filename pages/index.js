@@ -101,7 +101,7 @@ const Home = () => (
                 <BioSection> 
                     <BioYear>2021 - 2022</BioYear>
                     Kampus Merdeka Participants Study Independent
-                    Game developer At PT AGATE INTERNATIONAL
+                    Game developer At PT Agate International
                 </BioSection>
                 <BioSection>
                   <BioYear>2020 - Now</BioYear>
