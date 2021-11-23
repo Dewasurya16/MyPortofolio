@@ -13,7 +13,7 @@ const Work = () => (
       <P>
       My game project that I&apos; ve been working on at PT Agate International.
   I did this project in approximately 1 week with several assets that have been provided by the company.
-  the most difficult part of this project is the programming part which takes a long time because of the logic
+  the most difficult part of this project is the programming part which takes a long time because of the logic.
 
 
       </P>
