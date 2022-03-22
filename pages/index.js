@@ -63,8 +63,8 @@ const Home = () => (
                  I like to seek experiences to improve my soft and hard skills both from inside and outside campus.
                  I also easily mingle with other people, and like to make friends and relationships and build close relationships with them.
                  I also like to play games and travel Using a motorbike to get around places I ve never been to.
-                    <NextLink href="/works/inkdrop">
-                        <Link> lets go </Link>
+                    <NextLink href="https://drive.google.com/file/d/1_D7pP8hYnWRlsgQCPoTJIl2gdBQwU8uZ/view?usp=sharing">
+                        <Link> MY CV </Link>
                         </NextLink>
                 </Paragraph>
                 <Box align="center" my={4}>
@@ -103,6 +103,11 @@ const Home = () => (
                     Kampus Merdeka Participants Study Independent
                     Game developer At PT Agate International
                 </BioSection>
+                   <BioSection> 
+                    <BioYear>2022 - 2022</BioYear>
+                    Kampus Merdeka Participants Study Independent
+                    Artificial Inteligence Mastery At PT Orbit Ventura 
+                </BioSection>
                 <BioSection>
                   <BioYear>2020 - Now</BioYear>
                   Freelancer UI/UX Designer and Technician assemble Computer
@@ -128,7 +133,7 @@ const Home = () => (
             </Section>
             <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
-          On the web
+          Find Me
         </Heading>
         <List>
           <ListItem>
